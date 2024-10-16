@@ -1,0 +1,20 @@
+{
+  "name": "lab-assign2",
+  "version": "1.0.0",
+  "description": "for-lab-assign2-mobile-dev",
+  "main": "App.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-native start",
+    "web": "expo start --web"
+  },
+  "author": "Matthew Biggs",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^51.0.38",
+    "react": "^18.3.1",
+    "react-native": "^0.75.4",
+    "react-native-web": "^0.19.12",
+    "@expo/metro-runtime": "~3.2.3"
+  }
+}
